@@ -20,5 +20,5 @@ COVID-19の診療と診断に携わる(当院の最前線の)方々の
 - 急性期後期から亜急性期に生じる陰影について  
 
 
-##SAMPLE
+## SAMPLE
 ![sample image](sample.jpg)
