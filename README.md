@@ -1,12 +1,12 @@
 # covid-ct-pocket-guide
 Illustrated COVID-19 CT Image classification guide (lang:Japanese)
 
-# 目標  
+## 目標  
 COVID-19の診療と診断に携わる(当院の最前線の)方々の  
 緊急の要に供するための参考情報を提供すること。未検証  
 の考察を多々含むことにご留意ください。
 
-# Tanabata版の変更点(予定)
+## Tanabata版の変更点(予定)
 - CT重症度分類をイラストにより提示する  
 　予後予測・診療方針の一助とすることを目標とする
 - 進行リスクと治療方針が異なる細分化した仮の分類を提示する  
