@@ -1,6 +1,8 @@
 # covid-ct-pocket-guide
 Illustrated COVID-19 CT Image classification guide (lang:Japanese)
 
+*** under construction ***
+
 ## 目標  
 COVID-19の診療と診断に携わる(当院の最前線の)方々の  
 緊急の要に供するための参考情報を提供すること。未検証  
