@@ -21,4 +21,4 @@ COVID-19の診療と診断に携わる(当院の最前線の)方々の
 
 
 ##SAMPLE
-![sample image](COVID-19%20CT%20Pocket%20Guide%20TEST%20021802.pdf)
+![sample image](sample.jpg)
