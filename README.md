@@ -1,4 +1,4 @@
-# covid-ct-pocket-~guide~ graffiti
+# covid-ct-pocket-~guide~graffiti
 Illustrated COVID-19 CT Image classification ~guide~ graffiti (lang:Japanese)
 
 ---
