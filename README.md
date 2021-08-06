@@ -1,4 +1,4 @@
-# COVID-19 新型コロナ CT 所見 の落書き情報
+# COVID-19 新型コロナ肺炎 CT 所見 の落書き情報
 # covid-ct-pocket-~guide~graffiti
 Illustrated COVID-19 CT Image classification ~guide~ graffiti (lang:Japanese)
 
